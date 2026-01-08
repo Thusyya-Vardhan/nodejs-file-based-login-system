@@ -25,21 +25,16 @@ The project is designed to understand how backend login logic works without usin
 ---
 
 ## Project Structure
-'''
-nodejs-file-based-login-system/
-│
-├── server.js
-├── package.json
-│
-├── data/
-│ └── users.json
-│
-├── public/
-│ ├── login.html
-│ └── style.css
-│
-└── README.md
-'''
+
+- server.js  
+- package.json  
+- data/  
+  - users.json  
+- public/  
+  - login.html  
+  - style.css  
+- README.md
+
 
 ---
 
